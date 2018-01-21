@@ -19,6 +19,6 @@
 * 2D Arrays
 
 
-Mcq's and codes on pattern printing, selection sort, reverse each word, largest row/column(2d array) and print spiral(2d array).  
+Mcq's and codes on pattern printing, selection sort, reverse each word, largest row/column(2d array) and print spiral(2d array). :+1: 
 
-:+1: :smiley:
+:smiley:
