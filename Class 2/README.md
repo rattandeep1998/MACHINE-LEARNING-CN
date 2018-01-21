@@ -1,6 +1,6 @@
 ## Importing Libraries ##
 
-### Importing libraries of python math,numpy,pandas,matplotlib and using their functions for extracting useful features from the data###
+### Importing libraries of python math,numpy,pandas,matplotlib and using their functions for extracting useful features from the data ###
 
 #### Math ####
 
@@ -9,6 +9,7 @@
 #### Pandas ####
 
 #### Matplotlib ####
+
 
 Data Sets used : IRIS and TITANIC.
 
