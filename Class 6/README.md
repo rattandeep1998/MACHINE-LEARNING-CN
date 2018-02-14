@@ -1,4 +1,4 @@
-## Decision Trees##
+## Decision Trees ##
 
 * Decision tree of OR table
 
@@ -10,7 +10,7 @@
 * Relative count of 'total kitni galtiyan karri'
 * Decision boundary with increasing depth of tree - OVERFITTING
 
-### Pruning of TREE###
+### Pruning of TREE ###
 * Cost functions
 
 * Entropy and Information Gain
