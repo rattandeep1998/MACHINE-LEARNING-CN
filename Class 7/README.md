@@ -18,7 +18,7 @@
 
 taken for continuous features
 
-#### Baysian Belied Networks ####
+#### Baysian Belief Networks ####
 
 #### Code for naive bayes classification ####
 
