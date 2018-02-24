@@ -25,7 +25,7 @@ taken for continuous features
 - GaussianNB - sklearn
 - MultinomialNB
 
-Naive Bayes for text classification :
+#### Naive Bayes for text classification : ####
 * article type 
 * Email spam/not
 (HomeWork)
