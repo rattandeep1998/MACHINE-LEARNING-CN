@@ -7,3 +7,4 @@
 * [Class 5](https://github.com/rattandeep1998/MACHINE-LEARNING-CN/tree/master/Class%205)
 * [Class 6](https://github.com/rattandeep1998/MACHINE-LEARNING-CN/tree/master/Class%206)
 * [Class 7](https://github.com/rattandeep1998/MACHINE-LEARNING-CN/tree/master/Class%207)
+* [Class 8](https://github.com/rattandeep1998/MACHINE-LEARNING-CN/tree/master/Class%208)
