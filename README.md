@@ -11,3 +11,4 @@
 * [Class 9](https://github.com/rattandeep1998/MACHINE-LEARNING-CN/tree/master/Class%209)
 * [Class 10](https://github.com/rattandeep1998/MACHINE-LEARNING-CN/tree/master/Class%2010)
 * [Class 11](https://github.com/rattandeep1998/MACHINE-LEARNING-CN/tree/master/Class%2011)
+* [Class 12](https://github.com/rattandeep1998/MACHINE-LEARNING-CN/tree/master/Class%2012)
