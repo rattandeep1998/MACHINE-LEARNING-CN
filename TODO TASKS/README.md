@@ -1,7 +1,7 @@
 #### Logistic Regression:
-- [x] 1. Implement multivariable Logistic Regression and optimize using Gradient Descent
-- [x] 2. Implement Mini - Batch, Stochastic Gradient Descent
-- [x] 3. Implement Multi-class Classification (one vs all)
+	- [x] 1. Implement multivariable Logistic Regression and optimize using Gradient Descent
+	- [x] 2. Implement Mini - Batch, Stochastic Gradient Descent
+	- [x] 3. Implement Multi-class Classification (one vs all)
 
 #### Decision Tree:
 - [ ] 1. Implement (Mainly show each level of the tree)
