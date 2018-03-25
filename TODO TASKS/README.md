@@ -1,13 +1,11 @@
 #### Logistic Regression:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [x] 1. Implement multivariable Logistic Regression and optimize using Gradient Descent<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [x] 2. Implement Mini - Batch, Stochastic Gradient Descent<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- [x] 3. Implement Multi-class Classification (one vs all)<br/>
+- [x] 1. Implement multivariable Logistic Regression and optimize using Gradient Descent
+- [x] 2. Implement Mini - Batch, Stochastic Gradient Descent
+- [x] 3. Implement Multi-class Classification (one vs all)__
 
 #### Decision Tree:
 - [ ] 1. Implement (Mainly show each level of the tree)
-- [ ] 2. Implement Pruning
+- [ ] 2. Implement Pruning__
 
 #### Random Forest:
 - [ ] 1. Implement Random Forest (using sklearn)
