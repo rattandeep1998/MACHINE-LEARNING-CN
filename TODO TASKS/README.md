@@ -11,6 +11,7 @@
 
 #### Random Forest:
 - [ ] 1. Implement Random Forest (using sklearn)
+<br/>
 
 #### Naive Bayes ( for three types of the dataset):
 - [ ] 1. Dataset where the feature values are continuous (Gaussian)
@@ -19,21 +20,31 @@
 <br/>
 
 - [ ] Cars Dataset (autos.csv named file posted)
+<br/>
 
 - [ ] Email spam/ham
+<br/>
 
 - [ ] Google Stock Prediction
+<br/>
 
 - [ ] Study Ball Tree and KD Tree
+<br/>
 
 - [ ] CIFAR Dataset
+<br/>
 
 - [ ] Olivetti Faces(apply PCA then SVM)
+<br/>
 
 - [ ] K medoids (Implement)
+<br/>
 
 - [ ] Study Agglomerative clustering
+<br/>
 
 - [ ] Study Silhouette Analysis
+<br/>
 
 - [ ] Study Mean-shift Clustering
+<br/>
