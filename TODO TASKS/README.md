@@ -1,11 +1,13 @@
 #### Logistic Regression:
 - [x] 1. Implement multivariable Logistic Regression and optimize using Gradient Descent
 - [x] 2. Implement Mini - Batch, Stochastic Gradient Descent
-- [x] 3. Implement Multi-class Classification (one vs all)__
+- [x] 3. Implement Multi-class Classification (one vs all)
+<br/>
 
 #### Decision Tree:
 - [ ] 1. Implement (Mainly show each level of the tree)
-- [ ] 2. Implement Pruning__
+- [ ] 2. Implement Pruning
+<br/>
 
 #### Random Forest:
 - [ ] 1. Implement Random Forest (using sklearn)
@@ -14,6 +16,7 @@
 - [ ] 1. Dataset where the feature values are continuous (Gaussian)
 - [ ] 2. Dataset where features values are labelled (Multinomial)
 - [ ] 3. Text Classification
+<br/>
 
 - [ ] Cars Dataset (autos.csv named file posted)
 
