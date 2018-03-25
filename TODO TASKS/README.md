@@ -15,16 +15,22 @@
 - [ ] 2. Dataset where features values are labelled (Multinomial)
 - [ ] 3. Text Classification
 
-- [ ] 
+- [ ] Cars Dataset (autos.csv named file posted)
 
-####Cars Dataset (autos.csv named file posted)
+- [ ] Email spam/ham
 
-6.Email spam/ham
-7.Google Stock Prediction
-8.Study Ball Tree and KD Tree
-9.CIFAR Dataset
-10.Olivetti Faces(apply PCA then SVM)
-11.K medoids (Implement)
-12.Study Agglomerative clustering
-13.Study Silhouette Analysis
-14.Study Mean-shift Clustering
+- [ ] Google Stock Prediction
+
+- [ ] Study Ball Tree and KD Tree
+
+- [ ] CIFAR Dataset
+
+- [ ] Olivetti Faces(apply PCA then SVM)
+
+- [ ] K medoids (Implement)
+
+- [ ] Study Agglomerative clustering
+
+- [ ] Study Silhouette Analysis
+
+- [ ] Study Mean-shift Clustering
