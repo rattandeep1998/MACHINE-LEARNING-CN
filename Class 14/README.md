@@ -28,6 +28,8 @@ Dendogram - splitting in hierarchial clustering and seeing the tree.
 * Sil honitte - link(mentioned below) and code to choose best value of K
 * Mean Shift - sklearn implementation 
 
+SILHOUTTE ANALYSIS - http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+
 Data Sets used :  Random 2D data points(make_blobs) :+1: 
 
 :smiley:
